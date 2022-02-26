@@ -1,0 +1,1 @@
+各種サンプルデータはGTTMDatabase（https://gttm.jp/gttm/ja/database/）を使用
